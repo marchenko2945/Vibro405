@@ -1,0 +1,8 @@
+../Core/Src/MoveControl/movecontrol.c:4:14:CalculateNewU	4	static
+../Core/Src/MoveControl/movecontrol.c:8:14:CalculateNewFreq	4	static
+../Core/Src/MoveControl/movecontrol.c:13:13:StartMotor	24	static
+../Core/Src/MoveControl/movecontrol.c:19:13:StopMotor	16	static
+../Core/Src/MoveControl/movecontrol.c:23:13:CorrectSettings	24	static
+../Core/Src/MoveControl/movecontrol.c:30:16:isProcRun	4	static
+../Core/Src/MoveControl/movecontrol.c:34:6:InitMotors	8	static
+../Core/Src/MoveControl/movecontrol.c:41:6:MotorsControlProc	8	static

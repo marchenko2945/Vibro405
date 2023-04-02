@@ -1,0 +1,5 @@
+vibro.c:5:6:InitVibro	1
+vibro.c:11:13:CalcXFreq	3
+vibro.c:28:13:CalcYFreq	2
+vibro.c:38:13:PrepareAdcData	3
+vibro.c:49:6:VibroProc	2

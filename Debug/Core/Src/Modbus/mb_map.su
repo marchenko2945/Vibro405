@@ -1,0 +1,5 @@
+../Core/Src/Modbus/mb_map.c:98:13:SendCharge	4	static
+../Core/Src/Modbus/mb_map.c:102:13:SendOn	4	static
+../Core/Src/Modbus/mb_map.c:106:13:SendOff	4	static
+../Core/Src/Modbus/mb_map.c:115:6:UpdateMB_MapData	16	static
+../Core/Src/Modbus/mb_map.c:122:6:ExecuteMB	16	static

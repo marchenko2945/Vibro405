@@ -1,0 +1,5 @@
+../Core/Src/VibroSens/vibro.c:5:6:InitVibro	8	static
+../Core/Src/VibroSens/vibro.c:11:13:CalcXFreq	24	static
+../Core/Src/VibroSens/vibro.c:28:13:CalcYFreq	16	static
+../Core/Src/VibroSens/vibro.c:38:13:PrepareAdcData	24	static
+../Core/Src/VibroSens/vibro.c:49:6:VibroProc	8	static

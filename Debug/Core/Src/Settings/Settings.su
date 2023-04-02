@@ -1,0 +1,2 @@
+../Core/Src/Settings/Settings.c:3:6:ReadSettings	4	static
+../Core/Src/Settings/Settings.c:8:6:SaveSettings	4	static

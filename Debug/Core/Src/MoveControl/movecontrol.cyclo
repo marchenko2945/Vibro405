@@ -1,0 +1,8 @@
+movecontrol.c:4:14:CalculateNewU	1
+movecontrol.c:8:14:CalculateNewFreq	1
+movecontrol.c:13:13:StartMotor	1
+movecontrol.c:19:13:StopMotor	1
+movecontrol.c:23:13:CorrectSettings	1
+movecontrol.c:30:16:isProcRun	1
+movecontrol.c:34:6:InitMotors	1
+movecontrol.c:41:6:MotorsControlProc	4
